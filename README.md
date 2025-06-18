@@ -4,6 +4,11 @@
 NutriShift is a Python and HTML-based desktop application designed to help users track and improve their nutrition. The application calculates the nutrients in food items based on their name and weight (in grams). Additionally, NutriShift provides nutritional tips, a FAQ section, and a Healthy Replacements feature where users can input junk food items to receive healthier alternatives.
 
 ---
+### 📽️ Project Demo
+
+[![Watch the video]](https://youtu.be/qdY1klzSPZ0?si=T0wTWYY253VMTl1v)
+
+
 
 ## Features
 1. **Nutrient Calculator**
